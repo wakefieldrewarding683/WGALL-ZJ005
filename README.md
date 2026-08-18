@@ -2,7 +2,7 @@
 一个跑在你自己电脑上的加密货币永续合约网格交易机器人
 同时支持五家去中心化交易所：Decibel（Aptos 链）、Extended（Starknet 链）、RISEx、Arcus、RHC Lighter 
 五个交易所可以同时各跑一个网格策略，统一在一个浏览器仪表盘里监控和操控
-如果你还尚未注册交易所，可以用在金的邀请链接，万分感谢🙏
+### 如果你还尚未注册交易所，可以用在金的邀请链接，万分感谢🙏
 - Decibel 注册链接：https://app.decibel.trade/r/Y4GPC5
 - Extended 注册链接：https://app.extended.exchange/join/ZAIJIN
 - Arcus 注册链接：https://app.arcus.xyz/ref/ZAIJIN
